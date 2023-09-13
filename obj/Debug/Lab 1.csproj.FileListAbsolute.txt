@@ -1,0 +1,7 @@
+E:\VD\Lab 1\Lab 1\bin\Debug\Lab 1.exe.config
+E:\VD\Lab 1\Lab 1\bin\Debug\Lab 1.exe
+E:\VD\Lab 1\Lab 1\bin\Debug\Lab 1.pdb
+E:\VD\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.AssemblyReference.cache
+E:\VD\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+E:\VD\Lab 1\Lab 1\obj\Debug\Lab 1.exe
+E:\VD\Lab 1\Lab 1\obj\Debug\Lab 1.pdb
